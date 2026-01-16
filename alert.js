@@ -1,0 +1,1 @@
+promt("welcome to channel")
